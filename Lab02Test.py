@@ -2,7 +2,7 @@
 
 import sys
 # caution: path[0] is reserved for script path (or '' in REPL)
-sys.path.insert(1, '../myy505Utils')
+sys.path.insert(1, 'Downloads/myy505Utils')
 
 from myy505TesterLib import *
 
